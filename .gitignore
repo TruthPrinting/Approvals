@@ -1,0 +1,8 @@
+# Standard ignores
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc
+.env
+dist/
+build/
